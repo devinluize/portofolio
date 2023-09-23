@@ -10,6 +10,11 @@ function redirectToAnotherPageExcess() {
   // You can specify the URL of the page you want to redirect to
   window.location.href = "./page/excess.html";
 }
+function redirectToAnotherPageEcolab() {
+  // You can specify the URL of the page you want to redirect to
+  window.location.href = "./page/ecolab.html";
+}
+
 function ecolab() {
   // You can specify the URL of the page you want to redirect to
   window.location.href =
