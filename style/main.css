@@ -1,0 +1,25 @@
+body {
+  background-color: aqua;
+}
+#wrapper {
+  background-color: #e2e2e2;
+  width: 100%;
+
+  flex-wrap: wrap;
+  flex-direction: row;
+  /* border: 1px solid black; */
+  overflow: hidden; /* add this to contain floated children */
+}
+#first {
+  width: 500px;
+  float: left;
+  height: 500vh;
+  /* border: 1px solid red; */
+}
+#second {
+  padding-top: 100px;
+  margin-left: 200px;
+  padding-left: 100px;
+  /* border: 1px solid green; */
+  /* float: right; add this */
+}
