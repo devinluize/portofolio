@@ -23,6 +23,10 @@ function ecolab() {
   window.location.href =
     "https://www.figma.com/file/axWzCX9KOodIC6lKyurcPH/EDG?type=design&node-id=0%3A1&mode=design&t=lVFwwamIpnR7vTTe-1";
 }
+function redirectToAnotherPageStich() {
+  // You can specify the URL of the page you want to redirect to
+  window.location.href = "./page/stich.html";
+}
 function redirectToAnotherPagePiscis() {
   // You can specify the URL of the page you want to redirect to
   window.location.href = "./page/piscis.html";
