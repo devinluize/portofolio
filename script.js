@@ -27,6 +27,10 @@ function redirectToAnotherPageStich() {
   // You can specify the URL of the page you want to redirect to
   window.location.href = "./page/stich.html";
 }
+function redirectToAnotherPageVorskin() {
+  // You can specify the URL of the page you want to redirect to
+  window.location.href = "./page/vorskin.html";
+}
 function redirectToAnotherPagePiscis() {
   // You can specify the URL of the page you want to redirect to
   window.location.href = "./page/piscis.html";
