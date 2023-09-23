@@ -14,7 +14,10 @@ function redirectToAnotherPageEcolab() {
   // You can specify the URL of the page you want to redirect to
   window.location.href = "./page/ecolab.html";
 }
-
+function redirectToAnotherPageTpm() {
+  // You can specify the URL of the page you want to redirect to
+  window.location.href = "./page/tpm.html";
+}
 function ecolab() {
   // You can specify the URL of the page you want to redirect to
   window.location.href =
